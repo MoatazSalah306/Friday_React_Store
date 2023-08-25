@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Friday_React_Store/static/css/main.d7c1fa93.css",
+    "main.js": "/Friday_React_Store/static/js/main.10583af1.js",
+    "static/js/787.884e199e.chunk.js": "/Friday_React_Store/static/js/787.884e199e.chunk.js",
+    "static/media/checkout_img.png": "/Friday_React_Store/static/media/checkout_img.df5b95f6b388845df05b.png",
+    "static/media/gg.svg": "/Friday_React_Store/static/media/gg.c976cfcf27ee031d54f4f4b586018b76.svg",
+    "static/media/logo.svg": "/Friday_React_Store/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Friday_React_Store/index.html",
+    "main.d7c1fa93.css.map": "/Friday_React_Store/static/css/main.d7c1fa93.css.map",
+    "main.10583af1.js.map": "/Friday_React_Store/static/js/main.10583af1.js.map",
+    "787.884e199e.chunk.js.map": "/Friday_React_Store/static/js/787.884e199e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c1fa93.css",
+    "static/js/main.10583af1.js"
+  ]
+}
