@@ -15,7 +15,7 @@ function AppNavbar(){
           <Container>
             <Link to={"cart"} className="navbar-brand">
                <div>
-                  <button data-text="Awesome" className="button text-gray-400 ms-2">
+                  <button data-text="Awesome" className="button text-gray-100 ms-2">
                     <span className="actual-text">&nbsp;uiverse&nbsp;</span>
                     <span className="hover-text" aria-hidden="true">&nbsp;uiverse&nbsp;</span>
                   </button>
