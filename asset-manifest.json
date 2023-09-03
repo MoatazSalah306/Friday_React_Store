@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/Friday_React_Store/static/css/main.bfaed4f1.css",
-    "main.js": "/Friday_React_Store/static/js/main.f3cc4afe.js",
+    "main.css": "/Friday_React_Store/static/css/main.077ab262.css",
+    "main.js": "/Friday_React_Store/static/js/main.82723c77.js",
     "static/js/787.884e199e.chunk.js": "/Friday_React_Store/static/js/787.884e199e.chunk.js",
+    "static/media/shipping.jpg": "/Friday_React_Store/static/media/shipping.b2ba52ecdb26836dec18.jpg",
+    "static/media/shipping2.jpg": "/Friday_React_Store/static/media/shipping2.7be2268b0871cb1b4ae3.jpg",
     "static/media/gg.svg": "/Friday_React_Store/static/media/gg.c976cfcf27ee031d54f4f4b586018b76.svg",
     "static/media/2.svg": "/Friday_React_Store/static/media/2.b6a961e7c2cb26b22d867535c4d20419.svg",
     "static/media/logo.svg": "/Friday_React_Store/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Friday_React_Store/index.html",
-    "main.bfaed4f1.css.map": "/Friday_React_Store/static/css/main.bfaed4f1.css.map",
-    "main.f3cc4afe.js.map": "/Friday_React_Store/static/js/main.f3cc4afe.js.map",
+    "main.077ab262.css.map": "/Friday_React_Store/static/css/main.077ab262.css.map",
+    "main.82723c77.js.map": "/Friday_React_Store/static/js/main.82723c77.js.map",
     "787.884e199e.chunk.js.map": "/Friday_React_Store/static/js/787.884e199e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfaed4f1.css",
-    "static/js/main.f3cc4afe.js"
+    "static/css/main.077ab262.css",
+    "static/js/main.82723c77.js"
   ]
 }
